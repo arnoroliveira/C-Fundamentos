@@ -1,0 +1,11 @@
+C:\C#Fundamentos\C#Fundamentos.Common\bin\Debug\net8.0\C#Fundamentos.Common.deps.json
+C:\C#Fundamentos\C#Fundamentos.Common\bin\Debug\net8.0\C#Fundamentos.Common.dll
+C:\C#Fundamentos\C#Fundamentos.Common\bin\Debug\net8.0\C#Fundamentos.Common.pdb
+C:\C#Fundamentos\C#Fundamentos.Common\obj\Debug\net8.0\C#Fundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Fundamentos\C#Fundamentos.Common\obj\Debug\net8.0\C#Fundamentos.Common.AssemblyInfoInputs.cache
+C:\C#Fundamentos\C#Fundamentos.Common\obj\Debug\net8.0\C#Fundamentos.Common.AssemblyInfo.cs
+C:\C#Fundamentos\C#Fundamentos.Common\obj\Debug\net8.0\C#Fundamentos.Common.csproj.CoreCompileInputs.cache
+C:\C#Fundamentos\C#Fundamentos.Common\obj\Debug\net8.0\C#Fundamentos.Common.dll
+C:\C#Fundamentos\C#Fundamentos.Common\obj\Debug\net8.0\refint\C#Fundamentos.Common.dll
+C:\C#Fundamentos\C#Fundamentos.Common\obj\Debug\net8.0\C#Fundamentos.Common.pdb
+C:\C#Fundamentos\C#Fundamentos.Common\obj\Debug\net8.0\ref\C#Fundamentos.Common.dll
